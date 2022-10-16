@@ -1,15 +1,15 @@
 {
-  "contactOwner": "628817839722",
-  "ownerNumber": ["628817839722@s.whatsapp.net"],
-  "botName": "VelzzyBOT-MDོ",
-  "ownerName": "RonzzOfcོ",
+  "contactOwner": "6285713041886",
+  "ownerNumber": ["6285713041886@s.whatsapp.net"],
+  "botName": "Dav-MDོ",
+  "ownerName": "FachriOfcོ",
   "pathimg": "./temp/logo.jpg",
-  "footer": "VelzzyBOT-MDོ © RonzzOfcོ",
+  "footer": "DavBOT-MDོ © FachriOfcོ",
   "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
   "payment": {
     "gopay": {
       "nomer": "08817839722",
-      "atas_nama": "Ronzz Ofc"
+      "atas_nama": "Fachri Ofc"
     },
     "dana": {
       "nomer": "628817839722",
